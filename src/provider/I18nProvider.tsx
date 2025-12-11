@@ -25,9 +25,7 @@ export const getLocaleFromURL = (): SupportedLocale => {
   const params = new URLSearchParams(window.location.search)
   const lang = params.get('lang')
 
-  if (lang === 'fr' || lang === 'en') {
-    return lang
-  }
+  if (lang === 'fr' || lang === 'en') return lang
 
   return DEFAULT_LOCALE
 }
@@ -64,9 +62,9 @@ export const I18nProvider = ({ children }: BaseProviderProps) => {
   const i18n = useCallback(buildI18n(locale), [locale])
 
   return (
-    <LocaleContext.Provider value={locale}>
-      <I18nContext.Provider value={i18n}>
-        {children}
+    <LocaleContext.Provider value={ locale }>
+      <I18nContext.Provider value={ i18n }>
+        { children }
       </I18nContext.Provider>
     </LocaleContext.Provider>
   )
