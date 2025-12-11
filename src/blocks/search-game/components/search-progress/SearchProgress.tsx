@@ -1,7 +1,7 @@
 import React, { useRef } from 'react'
 
 import GradientText from 'components/gradient-text/GradientText'
-import { useL10n } from 'provider/L10nProvider'
+import { useL10n } from 'provider/I18nProvider'
 import { timeToHHMMSS } from 'helpers/units'
 import Translatable from 'components/translatable/Translatable'
 

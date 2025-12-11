@@ -1,7 +1,7 @@
 import React from 'react'
 
 import { EGamePrice, EGameSector, EGameUnit } from 'types/store'
-import { useL10n } from 'provider/L10nProvider'
+import { useL10n } from 'provider/I18nProvider'
 import { DEFAULT_SCALE_FACTOR, getRoundedTime } from 'helpers/units'
 import { useSearchLaboratoryContext } from 'provider/SearchLaboratoryProvider'
 import { useSearchPublicityContext } from 'provider/SearchPublicityProvider'

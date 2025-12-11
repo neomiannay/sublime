@@ -1,7 +1,7 @@
 import React, { useRef } from 'react'
 
 import { TSearchGameItem } from 'blocks/search-game/SearchGame'
-import { useL10n } from 'provider/L10nProvider'
+import { useL10n } from 'provider/I18nProvider'
 import Tooltip from 'components/tooltip/Tooltip'
 
 import SearchListTooltip from './search-list-tooltip/SearchListTooltip'

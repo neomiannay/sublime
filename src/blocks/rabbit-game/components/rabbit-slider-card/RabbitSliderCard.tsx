@@ -1,6 +1,6 @@
 import React from 'react'
 
-import { useL10n } from 'provider/L10nProvider'
+import { useL10n } from 'provider/I18nProvider'
 import { EGamePrice, EGameUnit } from 'types/store'
 import { useMotionValue } from 'motion/react'
 import classNames from 'classnames'

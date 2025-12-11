@@ -2,7 +2,7 @@ import React, { PropsWithChildren, useRef, useEffect, useState, useMemo } from '
 
 import classNames from 'classnames'
 import { useSectorsProviderContext } from 'provider/SectorsProvider'
-import { useL10n } from 'provider/L10nProvider'
+import { useL10n } from 'provider/I18nProvider'
 import { fadeAppear } from 'core/animation'
 import GradientText from 'components/gradient-text/GradientText'
 import { motion } from 'motion/react'

@@ -1,7 +1,7 @@
 import { ReactNode, RefObject, useEffect, useRef, useState } from 'react'
 
 import useMouseValue from 'hooks/useMouseValue'
-import { useL10n } from 'provider/L10nProvider'
+import { useL10n } from 'provider/I18nProvider'
 import {
   useSpring,
   useMotionValue,

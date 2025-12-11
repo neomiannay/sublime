@@ -1,7 +1,7 @@
 import { ButtonHTMLAttributes, memo } from 'react'
 
 import classNames from 'classnames'
-import { useL10n } from 'provider/L10nProvider'
+import { useL10n } from 'provider/I18nProvider'
 
 import styles from './BuyButton.module.scss'
 

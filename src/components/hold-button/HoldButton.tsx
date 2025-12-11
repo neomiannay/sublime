@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef, FC } from 'react'
 
 import classNames from 'classnames'
-import { useL10n } from 'provider/L10nProvider'
+import { useL10n } from 'provider/I18nProvider'
 import { useGameProviderContext } from 'provider/GameProvider'
 import { EGameUnit } from 'types/store'
 import useMotionState from 'hooks/useMotionState'

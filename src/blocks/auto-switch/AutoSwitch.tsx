@@ -3,7 +3,7 @@ import React from 'react'
 import classNames from 'classnames'
 import { motion } from 'framer-motion'
 import MaskText from 'components/mask-text/MaskText'
-import { useL10n } from 'provider/L10nProvider'
+import { useL10n } from 'provider/I18nProvider'
 import { bezier } from 'helpers/easing'
 
 import styles from './AutoSwitch.module.scss'

@@ -1,7 +1,7 @@
 import { useEffect } from 'react'
 
 import { compact } from 'lodash-es'
-import { useL10n } from 'provider/L10nProvider'
+import { useL10n } from 'provider/I18nProvider'
 
 type MetaProps = {
   title?: string,

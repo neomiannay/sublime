@@ -6,7 +6,7 @@ import { useAudioContext } from 'provider/AudioProvider'
 import { animate, AnimatePresence, motion, useMotionValue } from 'motion/react'
 import { baseTransition, baseVariants, fadeAppear, staggerWithExit } from 'core/animation'
 import { SOUNDS } from 'data/constants'
-import { useL10n } from 'provider/L10nProvider'
+import { useL10n } from 'provider/I18nProvider'
 import AdaptativeText from 'components/adaptative-text/AdaptativeText'
 
 import styles from './ActivateSound.module.scss'

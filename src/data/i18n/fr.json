@@ -50,11 +50,11 @@
     "GARDEN": "Jardin floral",
     "GARDEN_DESC": "Un joli jardin paisible où poussent des espèces rares de fleurs",
     "LAND": "Terrain agricole",
-    "LAND_DESC": "Initialement destiné à l’alimentation, un terrain racheté à prix d’or !",
+    "LAND_DESC": "Initialement destiné à l'alimentation, un terrain racheté à prix d'or !",
     "MINE": "Mine de mica",
     "MINE_DESC": "Un lieu où les mineurs malgaches récoltent l'éclat des cosmétiques",
     "WOMEN": "Femmes (25-45 ans)",
-    "WOMEN_DESC": "Vieillir n’est plus une obligation ! C’est ce que vous leur dites",
+    "WOMEN_DESC": "Vieillir n'est plus une obligation ! C'est ce que vous leur dites",
     "TEENS": "Adolescents",
     "TEENS_DESC": "Boutons, complexes et angoisses.. Cette clientèle est très réceptive",
     "KIDS": "Petites filles",
@@ -99,7 +99,7 @@
   },
   "SEARCH_ACTIFS": {
     "LAYOUT": {
-      "NAME": "Recherche d’actifs",
+      "NAME": "Recherche d'actifs",
       "ERROR": "Aucun actif trouvé",
       "TITLE": "MICHAEL DEVON",
       "SUBTITLE": "Scientifique Expert Quantique",
@@ -123,19 +123,19 @@
       "POLYMETHYL_METHACRYLATE": "POLYMETHYL METHACRYLATE",
       "POLYMETHYL_METHACRYLATE_DESC": "Effet 'soft focus' qui masque instantanément les imperfections. Lisse visuellement la surface de la peau. Texture aérienne au toucher. Fini mat élégant sans brillance. Microplastique non biodégradable, s'accumule dans les écosystèmes marins et contamine la chaîne alimentaire.",
       "AHA_BHA": "A.H.A - B.H.A",
-      "AHA_BHA_DESC": "Exfoliants chimiques qui éliminent les cellules mortes et désobstruent les pores. Améliorent l’éclat du teint et lissent la texture de la peau sans abrasion mécanique. Favorisent le renouvellement cellulaire. Peuvent irriter les peaux sensibles, augmenter la photosensibilité et perturber le microbiome cutané en cas d’usage excessif.",
+      "AHA_BHA_DESC": "Exfoliants chimiques qui éliminent les cellules mortes et désobstruent les pores. Améliorent l'éclat du teint et lissent la texture de la peau sans abrasion mécanique. Favorisent le renouvellement cellulaire. Peuvent irriter les peaux sensibles, augmenter la photosensibilité et perturber le microbiome cutané en cas d'usage excessif.",
       "NIACINAMIDE": "NIACINAMIDE",
       "NIACINAMIDE_DESC": "Unifie le teint, régule la production de sébum et renforce la barrière cutanée. Réduit les rougeurs, les taches et les irrégularités.",
       "VITAMINE_C": "VITAMINE C",
-      "VITAMINE_C_DESC": "Illumine le teint, atténue les taches pigmentaires et stimule la production de collagène. Puissant antioxydant qui protège la peau des agressions extérieures et du vieillissement prématuré. Instable en formulation, elle peut s’oxyder rapidement. À haute concentration, elle peut provoquer des picotements, rougeurs ou irritations chez les peaux sensibles.",
+      "VITAMINE_C_DESC": "Illumine le teint, atténue les taches pigmentaires et stimule la production de collagène. Puissant antioxydant qui protège la peau des agressions extérieures et du vieillissement prématuré. Instable en formulation, elle peut s'oxyder rapidement. À haute concentration, elle peut provoquer des picotements, rougeurs ou irritations chez les peaux sensibles.",
       "ACIDE_HYALURONIQUE": "ACIDE HYALURONIQUE",
-      "ACIDE_HYALURONIQUE_DESC": "Hydrate intensément la peau, comble les rides et améliore la fermeté. Redonne du volume et de l’élasticité aux tissus. Présent naturellement dans l’organisme, sa production diminue avec l’âge.",
+      "ACIDE_HYALURONIQUE_DESC": "Hydrate intensément la peau, comble les rides et améliore la fermeté. Redonne du volume et de l'élasticité aux tissus. Présent naturellement dans l'organisme, sa production diminue avec l'âge.",
       "RETINOL": "RÉTINOL",
       "RETINOL_DESC": "Actif anti-âge puissant qui stimule la production de collagène et accélère le renouvellement cellulaire. Lisse les rides, atténue les taches et affine le grain de peau. Efficace mais potentiellement irritant, surtout sur les peaux jeunes ou sensibles. Peut provoquer rougeurs, sécheresse et desquamation en cas de mauvaise tolérance ou de surdosage.",
-      "MUCUS_ESCARGOT": "MUCUS D’ESCARGOT",
+      "MUCUS_ESCARGOT": "MUCUS D'ESCARGOT",
       "MUCUS_ESCARGOT_DESC": "Hydrate la peau, favorise la cicatrisation et améliore son élasticité. Procure un effet lissant et réparateur visible. Pour en extraire de grandes quantités, des décharges électriques sont utilisées pour stresser les escargots.",
       "GELEE_ROYALE": "GELÉE ROYALE",
-      "GELEE_ROYALE_DESC": "Riche en vitamines, minéraux et acides aminés. Stimule la régénération cellulaire, redonne de l’éclat et tonifie la peau. Produite par les abeilles nourricières, sa récolte fragilise les colonies en perturbant leur cycle de développement. "
+      "GELEE_ROYALE_DESC": "Riche en vitamines, minéraux et acides aminés. Stimule la régénération cellulaire, redonne de l'éclat et tonifie la peau. Produite par les abeilles nourricières, sa récolte fragilise les colonies en perturbant leur cycle de développement. "
     }
   },
   "RABBIT_GAME": {

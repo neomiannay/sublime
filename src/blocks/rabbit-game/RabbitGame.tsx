@@ -1,7 +1,7 @@
 import React, { useMemo, useState } from 'react'
 
 import { motion, AnimatePresence, useMotionValue } from 'framer-motion'
-import { useL10n } from 'provider/L10nProvider'
+import { useL10n } from 'provider/I18nProvider'
 import useMotionState from 'hooks/useMotionState'
 import { useSearchLaboratoryContext } from 'provider/SearchLaboratoryProvider'
 import { EGameUnit } from 'types/store'

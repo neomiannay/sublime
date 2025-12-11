@@ -7,7 +7,7 @@ import { EGameUnit } from 'types/store'
 import { motion, useMotionValue, useTransform, useMotionTemplate } from 'motion/react'
 import { fadeAppear } from 'core/animation'
 import { useShopProviderContext } from 'provider/ShopProvider'
-import { useL10n } from 'provider/L10nProvider'
+import { useL10n } from 'provider/I18nProvider'
 
 import ShopElements from './shop-elements/ShopElements'
 import styles from './Shop.module.scss'

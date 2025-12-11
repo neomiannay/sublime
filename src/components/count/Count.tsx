@@ -1,5 +1,5 @@
 import classNames from 'classnames'
-import { conjugate, useL10n } from 'provider/L10nProvider'
+import { conjugate, useL10n } from 'provider/I18nProvider'
 import { EGameUnit } from 'types/store'
 import { useGameProviderContext } from 'provider/GameProvider'
 import { formatValue } from 'helpers/units'

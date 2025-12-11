@@ -6,7 +6,7 @@ import { TSearchGameItem } from 'blocks/search-game/SearchGame'
 import { useSearchLaboratoryContext } from 'provider/SearchLaboratoryProvider'
 import { useSearchPublicityContext } from 'provider/SearchPublicityProvider'
 import Button from 'components/button/Button'
-import { useL10n } from 'provider/L10nProvider'
+import { useL10n } from 'provider/I18nProvider'
 
 import styles from './SearchStart.module.scss'
 import { SOUNDS } from 'data/constants'

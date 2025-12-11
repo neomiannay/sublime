@@ -1,0 +1,206 @@
+{
+  "meta": {
+    "title": "SUBLIME",
+    "description": "Sublime, splendid, quite complex!"
+  },
+  "PROJECTS": "Projects",
+  "BUTTONS": {
+    "ACTIF": "Extract",
+    "COMPLEX": "Formulate",
+    "SALE": "Spread",
+    "BUY": "Buy",
+    "TARGET": "Target",
+    "ACTIVATE_SOUND": {
+      "TITLE": "Enable sound",
+      "CANCEL": "No",
+      "CONFIRM": "Yes"
+    },
+    "NEW_GAME": "New game",
+    "CREDITS_LINK": "Learn more",
+    "SHARE_SCORE": "Share my score"
+  },
+  "UNITS": {
+    "ACTIF": {
+      "SINGULAR": "active",
+      "PLURAL": "actives"
+    },
+    "COMPLEX": {
+      "SINGULAR": "complex",
+      "PLURAL": "complexes"
+    },
+    "SALE": {
+      "SINGULAR": "sale",
+      "PLURAL": "sales"
+    },
+    "BENEFITS": {
+      "SINGULAR": "euro",
+      "PLURAL": "euros"
+    },
+    "FORMULATION": {
+      "SINGULAR": "formulation",
+      "PLURAL": "formulations"
+    },
+    "REPUTATION": "Reputation",
+    "MIN": "min",
+    "SEC": "s",
+    "PERCENT": "%",
+    "EURO": "€"
+  },
+  "ITEMS": {
+    "GARDEN": "Flower garden",
+    "GARDEN_DESC": "A lovely peaceful garden where rare flower species grow",
+    "LAND": "Agricultural land",
+    "LAND_DESC": "Originally intended for food production, land bought at a premium!",
+    "MINE": "Mica mine",
+    "MINE_DESC": "A place where Malagasy miners harvest the sparkle of cosmetics",
+    "WOMEN": "Women (25-45 years)",
+    "WOMEN_DESC": "Aging is no longer mandatory! That's what you tell them",
+    "TEENS": "Teenagers",
+    "TEENS_DESC": "Acne, insecurities and anxieties... This clientele is very receptive",
+    "KIDS": "Little girls",
+    "KIDS_DESC": "What better than preventing signs of aging at 8 years old?"
+  },
+  "ACTIONS": {
+    "BUY": "Buy",
+    "TRY": "Test",
+    "ACCEPT": "Accept",
+    "REJECT": "Reject",
+    "INCLUDE": "Include",
+    "NOT_INCLUDE": "Do not include"
+  },
+  "UPGRADES": {
+    "LEVEL1": "INTERN",
+    "LEVEL1_DESC": "Young and dynamic, at your service to multiply production",
+    "LEVEL2": "APPRENTICE",
+    "LEVEL2_DESC": "In search of experience, working hard for the company",
+    "LEVEL3": "TEMP WORKER",
+    "LEVEL3_DESC": "Temporarily available, knows the ropes",
+    "LEVEL4": "FIXED-TERM",
+    "LEVEL4_DESC": "Fast, consistent, productive, the person you need",
+    "LEVEL5": "PERMANENT",
+    "LEVEL5_DESC": "An employee who will last and grow within the company",
+    "LEVEL6": "CEO",
+    "LEVEL6_DESC": "Help to manage and oversee all resources",
+    "AUTOPROD": "AUTOMATED FORMULATION",
+    "AUTOPROD_DESC": "New technology that revolutionizes the formulation process by automating it"
+  },
+  "PRICES": {
+    "PRODUCTION": "Production cost",
+    "SELLING": "Selling price"
+  },
+  "UI": {
+    "UNIT_PRODUCTION": "Show production /s",
+    "PRODUCTION_COST": "Production cost",
+    "PRODUCTION_DURATION": "Formulation duration per complex",
+    "SELLING": "Selling price",
+    "REPUTATION": "Reputation",
+    "EXECUTED_QUANTITY": "Number of complexes created per formulation",
+    "AUTOMATIC_PRODUCTION": "Automatic production"
+  },
+  "SEARCH_ACTIFS": {
+    "LAYOUT": {
+      "NAME": "Active ingredient research",
+      "ERROR": "No active ingredient found",
+      "TITLE": "MICHAEL DEVON",
+      "SUBTITLE": "Quantum Expert Scientist",
+      "DESCRIPTION": "For so many years he has been deciphering photonic phenomena, at the infinitely small scale, the quantum scale.",
+      "BUTTON_LABEL": "Start research",
+      "NEW": "New active ingredient found",
+      "LIST": "Complex composition",
+      "PROBABILITY": "Chance of finding an active",
+      "DURATION": "Research duration",
+      "IN_PROGRESS": "Research in progress...",
+      "DECLINE": "DO NOT INCLUDE",
+      "ADD": "INCLUDE"
+    },
+    "ITEMS": {
+      "OXYBENZONE": "OXYBENZONE",
+      "OXYBENZONE_DESC": "Powerful UV filter that protects your skin from UVA and UVB rays. Stabilizes formulas against sun degradation. Effective and long-lasting sun protection. Present in most of your daily cosmetics. Suspected endocrine disruptor, proven skin irritant, confirmed photo-allergen, potential carcinogen and toxic to marine ecosystems.",
+      "TRICLOSAN": "TRICLOSAN",
+      "TRICLOSAN_DESC": "Powerful antibacterial agent that eliminates unwanted bacteria. Absolute cleanliness and lasting freshness. Deeply disinfected skin. Long-lasting antimicrobial protection. Suspected endocrine disruptor affecting estrogen hormones and disrupting thyroid function.",
+      "ALOE_VERA": "ALOE VERA",
+      "ALOE_VERA_DESC": "Natural moisturizing active with recognized soothing properties. Relieves irritation and sunburn. Refreshing gel texture that penetrates quickly. Gently repairs and regenerates the epidermis.",
+      "POLYMETHYL_METHACRYLATE": "POLYMETHYL METHACRYLATE",
+      "POLYMETHYL_METHACRYLATE_DESC": "'Soft focus' effect that instantly masks imperfections. Visually smooths the skin surface. Airy texture to the touch. Elegant matte finish without shine. Non-biodegradable microplastic, accumulates in marine ecosystems and contaminates the food chain.",
+      "AHA_BHA": "A.H.A - B.H.A",
+      "AHA_BHA_DESC": "Chemical exfoliants that remove dead cells and unclog pores. Improve skin radiance and smooth texture without mechanical abrasion. Promote cell renewal. May irritate sensitive skin, increase photosensitivity and disrupt the skin microbiome with excessive use.",
+      "NIACINAMIDE": "NIACINAMIDE",
+      "NIACINAMIDE_DESC": "Evens skin tone, regulates sebum production and strengthens the skin barrier. Reduces redness, spots and irregularities.",
+      "VITAMINE_C": "VITAMIN C",
+      "VITAMINE_C_DESC": "Brightens complexion, reduces pigmentation spots and stimulates collagen production. Powerful antioxidant that protects skin from external aggressions and premature aging. Unstable in formulation, can oxidize quickly. At high concentration, may cause tingling, redness or irritation on sensitive skin.",
+      "ACIDE_HYALURONIQUE": "HYALURONIC ACID",
+      "ACIDE_HYALURONIQUE_DESC": "Intensely hydrates skin, fills wrinkles and improves firmness. Restores volume and elasticity to tissues. Naturally present in the body, its production decreases with age.",
+      "RETINOL": "RETINOL",
+      "RETINOL_DESC": "Powerful anti-aging active that stimulates collagen production and accelerates cell renewal. Smooths wrinkles, reduces spots and refines skin texture. Effective but potentially irritating, especially on young or sensitive skin. May cause redness, dryness and peeling in case of poor tolerance or overdose.",
+      "MUCUS_ESCARGOT": "SNAIL MUCUS",
+      "MUCUS_ESCARGOT_DESC": "Hydrates skin, promotes healing and improves elasticity. Provides visible smoothing and repairing effect. To extract large quantities, electric shocks are used to stress the snails.",
+      "GELEE_ROYALE": "ROYAL JELLY",
+      "GELEE_ROYALE_DESC": "Rich in vitamins, minerals and amino acids. Stimulates cell regeneration, restores radiance and tones the skin. Produced by nurse bees, its harvest weakens colonies by disrupting their development cycle."
+    }
+  },
+  "RABBIT_GAME": {
+    "LAYOUT": {
+      "TITLE": "Draize Protocol",
+      "DESCRIPTION": "Chinese authorities require you to follow a protocol on your actives claiming new efficacy for safety reasons.",
+      "NAME": "Draize Protocol",
+      "LAUNCH": "Launch",
+      "NOT_ENOUGH_MONEY": "Not enough money...",
+      "COST": "Cost"
+    },
+    "TIPS": {
+      "CLICK_0": "*pet*",
+      "CLICK_1": "TRY!",
+      "CLICK_2": "TEST ME!",
+      "CLICK_3": "PET ME!",
+      "CLICK_4": "EXPERIMENT!"
+    },
+    "ITEMS": {
+      "SKIN_REACTION": "Skin reaction",
+      "SKIN_REACTION_DESC": "Evaluation of the irritant potential of a chemical substance on skin by measuring local inflammatory reactions",
+      "OCULAR_SENSITIVITY": "Ocular sensitivity",
+      "OCULAR_SENSITIVITY_DESC": "Evaluation of ocular irritation to detect inflammatory reactions of the cornea, iris and conjunctiva",
+      "INGESTION": "Ingestion",
+      "INGESTION_DESC": "Determination of oral toxicity by increasing doses to establish the median lethal dose and systemic effects"
+    },
+    "BUY_RABBIT_ITEM": {
+      "NAME": "Change subject",
+      "DESCRIPTION": "The subject is no longer responding. A replacement is necessary."
+    }
+  },
+  "SEARCH_TIPS": {
+    "LAYOUT": {
+      "NAME": "Commercial strategy",
+      "ERROR": "No strategy found",
+      "TITLE": "ELĒPHE ANTIVRE",
+      "SUBTITLE": "Expert in commercial strategy and financial optimization",
+      "DESCRIPTION": "She navigates at the confluence of budget flows and commercial dynamics, deciphering the oscillations of emerging markets with precision.",
+      "BUTTON_LABEL": "Search for a strategy",
+      "NEW": "New strategy found",
+      "LIST": "Employed strategies",
+      "PROBABILITY": "Chance of finding a strategy",
+      "DURATION": "Research duration",
+      "IN_PROGRESS": "Research in progress...",
+      "DECLINE": "Do not apply",
+      "ADD": "Apply"
+    },
+    "ITEMS": {
+      "PINK_TAX": "Pink tax",
+      "PINK_TAX_DESC": "Commercial strategy that exploits gender stereotypes to maximize profits. Increases the perceived value of products aimed at women, justifying higher prices.",
+      "PACKAGING_OPTIMIZATION": "Packaging optimization",
+      "PACKAGING_OPTIMIZATION_DESC": "Commercial strategy that improves packaging efficiency to reduce production and transport costs. Increases product durability while reducing carbon footprint.",
+      "LOCAL_SOURCING": "Local sourcing",
+      "LOCAL_SOURCING_DESC": "Commercial strategy that favors local suppliers to reduce transport costs and support the local economy. Improves product traceability and reduces carbon footprint.",
+      "SALES_TRAINING": "Sales training",
+      "SALES_TRAINING_DESC": "Commercial strategy that improves salespeople's skills to increase sales and customer satisfaction. Training on sales techniques, product knowledge and customer service.",
+      "NEW_PUBLIC": "Acquire new customers",
+      "NEW_PUBLIC_DESC": "Create a product range aimed at younger people, so they can discover the brand and adopt it from an early age. Increases brand awareness and builds customer loyalty from youth."
+    }
+  },
+  "SECTORS": {
+    "PRODUCTION": "Production",
+    "LABORATORY": "Laboratory",
+    "LABORATORY_DESC": "A space dedicated to scientific research of new actives to include in the complex composition",
+    "PUBLICITY": "Advertising",
+    "PUBLICITY_DESC": "Informing as many people as possible about the benefits of our products and promoting our brand image is a priority"
+  }
+}

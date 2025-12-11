@@ -4,7 +4,7 @@ import { useGameProviderContext } from 'provider/GameProvider'
 import { EGameUnit } from 'types/store'
 import useMotionState from 'hooks/useMotionState'
 import MaskText from 'components/mask-text/MaskText'
-import { useL10n } from 'provider/L10nProvider'
+import { useL10n } from 'provider/I18nProvider'
 
 import styles from './ReputationIndicator.module.scss'
 

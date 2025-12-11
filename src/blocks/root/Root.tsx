@@ -12,7 +12,7 @@ import { useSectorsProviderContext } from 'provider/SectorsProvider'
 import Background from 'blocks/background/Background'
 import { useLoaderContext } from 'provider/LoaderProvider'
 import ActivateSound from 'blocks/activate-sound/ActivateSound'
-import { useL10n } from 'provider/L10nProvider'
+import { useL10n } from 'provider/I18nProvider'
 import { useGameProviderContext } from 'provider/GameProvider'
 import EndScreen from 'blocks/end-screen/EndScreen'
 

@@ -1,7 +1,7 @@
 import React from 'react'
 
 import { TSearchGameItem } from 'blocks/search-game/SearchGame'
-import { useL10n } from 'provider/L10nProvider'
+import { useL10n } from 'provider/I18nProvider'
 import { EGamePrice, EGameUnit } from 'types/store'
 
 import styles from './SearchListTooltip.module.scss'

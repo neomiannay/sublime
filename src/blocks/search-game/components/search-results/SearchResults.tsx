@@ -1,6 +1,6 @@
 import React from 'react'
 
-import { useL10n } from 'provider/L10nProvider'
+import { useL10n } from 'provider/I18nProvider'
 import { EChoice, EGamePrice, EGameUnit } from 'types/store'
 import {
   TSearchGameItem,

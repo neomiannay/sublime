@@ -1,7 +1,7 @@
 import React from 'react'
 
 import { SearchGameProps } from 'blocks/search-game/SearchGame'
-import { useL10n } from 'provider/L10nProvider'
+import { useL10n } from 'provider/I18nProvider'
 import classNames from 'classnames'
 import Translatable from 'components/translatable/Translatable'
 

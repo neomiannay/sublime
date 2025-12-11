@@ -3,7 +3,7 @@ import React, { createContext, useContext, PropsWithChildren, Dispatch, SetState
 import { getStorageKey } from 'hooks/useGamePersistence'
 import { GameState } from 'types/store'
 
-import { L10nProvider } from './L10nProvider'
+import { I18nProvider } from './I18nProvider'
 import { ViewportProvider } from './ViewportProvider'
 import { GameProvider } from './GameProvider'
 import { IterationProvider } from './IterationProvider'
@@ -47,7 +47,7 @@ export const GlobalProvider = ({ children }: BaseProviderProps) => {
   const providers = [
     LoaderProvider,
     ViewportProvider,
-    L10nProvider,
+    I18nProvider,
     AudioProvider,
     PricesProvider, // PricesProvider should be before GameProvider to ensure prices are available
     FeedbackProvider,

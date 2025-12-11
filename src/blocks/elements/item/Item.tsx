@@ -2,7 +2,7 @@ import React from 'react'
 
 import classNames from 'classnames'
 import { EGameUnit, ItemType } from 'types/store'
-import { conjugate, useL10n } from 'provider/L10nProvider'
+import { conjugate, useL10n } from 'provider/I18nProvider'
 import { useInventoryContext } from 'provider/InventoryProvider'
 import { useSequentialPurchaseState } from 'hooks/useSequentialPurchase'
 import useElementPurchased from 'hooks/useElementPurchased'

@@ -2,7 +2,7 @@ import React, { useEffect, useMemo, useRef } from 'react'
 
 import classNames from 'classnames'
 import { useGameProviderContext } from 'provider/GameProvider'
-import { useL10n } from 'provider/L10nProvider'
+import { useL10n } from 'provider/I18nProvider'
 import useMotionState from 'hooks/useMotionState'
 import { usePricesContext } from 'provider/PricesProvider'
 import { EGamePrice, EGameUnit } from 'types/store'
