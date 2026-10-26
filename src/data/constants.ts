@@ -21,7 +21,8 @@ export const SOUNDS = {
     ARROW: 'arrow'
   }
 }
-export const BENEFITS_GOAL = 6_200_000_000
+// export const BENEFITS_GOAL = 6_200_000_000
+export const BENEFITS_GOAL = 1_000_000_000
 export const BENEFITS_START_STEP = 100_000
 // export const BENEFITS_GOAL = 10_000
 // export const BENEFITS_START_STEP = 5_000
